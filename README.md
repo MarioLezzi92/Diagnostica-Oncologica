@@ -27,7 +27,9 @@ A complete report including performance metrics and the **Confusion Matrix** is 
 `Diagnostic_analysis.ipynb`
 
 ## Authors
-- Gerardo Leone — https://github.com/
-- Daniele Dello Russo — https://github.com/username
-- Carmine Calabrese — https://github.com/
-- Mario Lezzi — https://github.com/username
+- Gerardo Leone — https://github.com/GerardoLeone
+- Daniele Dello Russo — https://github.com/Presidente10
+- Carmine Calabrese — https://github.com/Carmineh
+- Mario Lezzi — https://github.com/MarioLezzi92
+
+
